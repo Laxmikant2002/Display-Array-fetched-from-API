@@ -6,4 +6,4 @@ A web application that demonstrates promise chaining by fetching data from three
 
 ## Deployment
 
-🚀 **Live Demo:** [Add your deployment link here]
+🚀 **Live Demo:** (https://laxmikant2002.github.io/Display-Array-fetched-from-API/)
